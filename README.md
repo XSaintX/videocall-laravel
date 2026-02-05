@@ -19,4 +19,4 @@ This project uses voyager and mysql
 - If the user wants to connect he can logins here.
 ![](travellist/images/other-user.jpg)
 - After logging we can send the link and only that user will connect to the videocall.
-- To see how it works you can write me by email nsoriano256@hotmail.com
+- To see how it works you can write me by email nsoriano257@hotmail.com
